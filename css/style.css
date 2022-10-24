@@ -99,6 +99,7 @@ nav>.logo {
 .hero.button:focus {
     color:var(--white-color);
     background-color: #2196F3;
+    cursor: pointer;
 }
 
 /* Особливості */
@@ -199,6 +200,7 @@ text-align: center;
 .port.button:focus {
     color: var(--white-color);
     background-color: var(--accent-color);
+    cursor: pointer;
 } 
 
 .section-title.port {
